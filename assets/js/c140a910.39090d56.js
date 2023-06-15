@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1240],{1299:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Docusauraslearning/blog/tags/hola","allTagsPath":"/Docusauraslearning/blog/tags","count":1}')}}]);
